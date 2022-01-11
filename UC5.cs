@@ -32,7 +32,6 @@ namespace SnakeAndLadder
                 if (CurrentP == 100)
                 {
 
-                    StartingP = StartingP - DiceRoll;
                     Console.WriteLine("....................You won the game...................... ");
 
                     break;
