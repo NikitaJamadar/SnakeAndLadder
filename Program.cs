@@ -12,8 +12,8 @@ namespace SnakeAndLadder
             //UC3.CheckingPosition();
             //UC4.RepeatTillWin();
             //UC5.RepeatTillWinningPosition();
-            UC6.CountRollDice();
-
+             UC6.CountRollDice();
+            //UC7.PlayGameWithTwoPlayers();
         }
     }
 }

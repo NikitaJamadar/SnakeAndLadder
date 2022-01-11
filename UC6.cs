@@ -34,7 +34,7 @@ namespace SnakeAndLadder
                 if (CurrentP == 100)
                 {
 
-                    StartingP = StartingP - DiceRoll;
+                    Console.WriteLine("You are at position :" + CurrentP);
                     Console.WriteLine("....................You won the game...................... ");
                     Console.WriteLine("The Dice is thown by " + count);
                     break;
